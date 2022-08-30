@@ -36,7 +36,7 @@ Requirements:
 - electrical tape
 - Phillips screwdriver to remove 5 of the drum's outer screws
 - pliers (completely optional if you're fine with hurting your hands)
-- scissors (not pictures)
+- scissors (not pictured)
 
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/materials-1.jpg" width="50%">
 
@@ -50,9 +50,10 @@ I also used the following but these are all totally unnecessary
 
 #### Step 1 - Open up the drum
 There are 5 screws at the back of the drum, use a Phillips scredriver to remove them.
-![alt text](https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/drum-back.jpg?raw=true)
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/drum-back.jpg" width="50%">
+
+#### Step 2 - Unplug the don and ka connectors
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/wiring.jpg" width="50%">
 
 
-
-
-WIP - Need to add pictures and such too
+WIP
