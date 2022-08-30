@@ -26,6 +26,11 @@ I decided to open up my drum and see how I'd go about doing things.
 ### Note
 The drum used in this mod guide is the original Hori Taiko no Tatsujin switch drum but as long as the mechanism is the same- other drums should be moddable the same way.
 
+I wasn't planning on documenting this until I joked to a friend that I'd do. The pictures here were all taken post mod implementation.
+
+Also, the workmanship of this mod is horrible. The tapes were cut as if I only had access to a piece of rock and not some refined steel scissor.
+I only planned on doing this temporarily but it worked so well that I guess this would be permanent instead.
+
 Also, the drum was in pristine condition prior to me modding it. It started getting scratches because I dragged it around while opening-closing, testing, and fine-tuning my modifications.
 
 Please take care of your takacon, I wish I'd at least wrapped the surface of mine prior to modding but oh well.
@@ -54,6 +59,49 @@ There are 5 screws at the back of the drum, use a Phillips scredriver to remove 
 
 #### Step 2 - Unplug the don and ka connectors
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/wiring.jpg" width="50%">
+
+#### Step 3 - Undo the rubber knots(? not sure what to call these)
+These rubber knots are the ones that are keeping the top part of the drum attached to the sensors inside.
+
+Use your pliers here, pull a knot up and guide it to the opening of the slot to free it.
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/rubber-knots.jpg" width="50%">
+
+Once you've done this to all the knots, you can now slowly separate the top layer of the drum which should reveal the sensors.
+
+#### Step 4 - Add a layer to the thick base foam
+By now, you'd see a piece of foam attached to a solid plate. Lift that solid plate up and you should see a thick black foam underneath it.
+
+In most guides, they replace this foam with a 1cm thick cork or wood. I assume they just want to make the material less shock absorbent so my take was to add a layer of tape to each side of piece of paper to harden it then make a cut-out to match the original foam's shape and place it on top of the original foam.
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/base-paper.jpg" width="50%">
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/base-foam-and-paper.jpg" width="50%">
+
+Flip the solid board back to its original position.
+
+#### Step 4 - Replace the foam that is somewhat attached to the solid board
+After flipping back the solid board, you should notice a piece of foam with multiple holes in it.
+Slowly peel that foam away from the board.
+
+In most guides, they replace this foam with 1mm rubber sheet. We'll replace ours with electrical tape on top of paper.
+Trace the outline of the foam on top of a paper and make sure to mark the 4 holes that we'd later need to puncture.
+
+Add a layer of electrical tape to the untraced side of the paper and cut-out the shape you've traced.
+Make the 4 holes and make sure to remove some materical from the center, vertically.
+You should end up with the following.
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/don-layer-front.jpg" width="50%">
+
+After doing so, on the side of the paper that does not have electrical tape, add another layer of tape. I used masking tape because I ran out of electrical tape and then ended up adding another layer of masking tape to it to make the result thicker.
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/don-layer-back.jpg" width="50%">
+
+After doing so, you can get rid of the original foam and replace it with the one you've made.
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/don-layer-in-position.jpg" width="50%">
+
+#### Step 5 - Add layers to the ka sensors
+**This was the most trial-and-error inducing part for me**
+
+
+
+
+
 
 
 WIP
