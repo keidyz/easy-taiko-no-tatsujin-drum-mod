@@ -1,4 +1,4 @@
-### This is a guide that will allow you to effectively apply a sensitivity mod to your Taiko no Tatsujin drum.
+### This is a guide that will allow you to effectively apply a sensitivity mod to your Taiko no Tatsujin drum using only household materials.
 
 Most guides out there require rubber sheets and cork or wood while this guide will **only require common household items**.
 
@@ -97,11 +97,16 @@ After doing so, you can get rid of the original foam and replace it with the one
 
 #### Step 5 - Add layers to the ka sensors
 **This was the most trial-and-error inducing part for me**
+Cut of strips of tape to cover the ka sensors.
+I mostly cut strips enough to cover at least two sensors.
+
+I did around 5 layers over-all. If you're getting false-positives then you should strip some off. If you want more sensitivity then just add more layers.
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/ka-layer.jpg" width="50%">
 
 
+#### Step 6 - DONE!
+Test your drum out and rinse and repeat by adding more layers or remove layers from your modification till you're satisfied.
 
 
-
-
-
+### Results
 WIP
