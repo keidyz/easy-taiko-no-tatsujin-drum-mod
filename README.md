@@ -50,11 +50,13 @@ I also used the following but these are all totally unnecessary
 - Masking tape, because I ran out of electrical tape and was too lazy to get a new one from the cabinet
 - precision tweezer, you most likely won't need this
 - mini grinder with a bit that can be used to poke holes into the paper, you can use scissors- I just happen to have one already set-up in the vicinity
+
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/materials-2.jpg" width="50%">
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/materials-3.jpg" width="50%">
 
 #### Step 1 - Open up the drum
 There are 5 screws at the back of the drum, use a Phillips scredriver to remove them.
+
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/drum-back.jpg" width="50%">
 
 #### Step 2 - Unplug the don and ka connectors
@@ -64,6 +66,7 @@ There are 5 screws at the back of the drum, use a Phillips scredriver to remove 
 These rubber knots are the ones that are keeping the top part of the drum attached to the sensors inside.
 
 Use your pliers here, pull a knot up and guide it to the opening of the slot to free it.
+
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/rubber-knots.jpg" width="50%">
 
 Once you've done this to all the knots, you can now slowly separate the top layer of the drum which should reveal the sensors.
@@ -72,6 +75,7 @@ Once you've done this to all the knots, you can now slowly separate the top laye
 By now, you'd see a piece of foam attached to a solid plate. Lift that solid plate up and you should see a thick black foam underneath it.
 
 In most guides, they replace this foam with a 1cm thick cork or wood. I assume they just want to make the material less shock absorbent so my take was to add a layer of tape to each side of piece of paper to harden it then make a cut-out to match the original foam's shape and place it on top of the original foam.
+
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/base-paper.jpg" width="50%">
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/base-foam-and-paper.jpg" width="50%">
 
@@ -87,12 +91,15 @@ Trace the outline of the foam on top of a paper and make sure to mark the 4 hole
 Add a layer of electrical tape to the untraced side of the paper and cut-out the shape you've traced.
 Make the 4 holes and make sure to remove some materical from the center, vertically.
 You should end up with the following.
+
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/don-layer-front.jpg" width="50%">
 
 After doing so, on the side of the paper that does not have electrical tape, add another layer of tape. I used masking tape because I ran out of electrical tape and then ended up adding another layer of masking tape to it to make the result thicker.
+
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/don-layer-back.jpg" width="50%">
 
 After doing so, you can get rid of the original foam and replace it with the one you've made.
+
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/don-layer-in-position.jpg" width="50%">
 
 #### Step 5 - Add layers to the ka sensors
@@ -101,6 +108,7 @@ Cut of strips of tape to cover the ka sensors.
 I mostly cut strips enough to cover at least two sensors.
 
 I did around 5 layers over-all. If you're getting false-positives then you should strip some off. If you want more sensitivity then just add more layers.
+
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/ka-layer.jpg" width="50%">
 
 
