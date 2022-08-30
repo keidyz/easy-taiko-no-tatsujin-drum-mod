@@ -39,7 +39,7 @@ Requirements:
 - scissors (not pictures)
 
 Here are the main requirements
-<img src="[https://your-image-url.type](https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/materials-1.jpg)" width="100" height="100">
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/materials-1.jpg" width="100">
 
 I also used the following but these are all totally unnecessary
 - Masking tape, because I ran out of electrical tape and was too lazy to get a new one from the cabinet
