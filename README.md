@@ -8,12 +8,13 @@ My drum is now sensitive enough that you can just touch the face of the drum to 
 Here's a video of it -> https://youtu.be/R7-cOTQOhUM
 
 ### Inspiration
-I just got my tatacon delivered but sensitivity sucked big time. You have to hit the dons and kas with force just to make sure your hits get registered.
-This apparently is known among Hori tatacon owners, despite it being the authentic controller- it still wasn't good enough for normal players.
+I just got my tatacon delivered but sensitivity sucked big time. You had to hit the dons and kas with force just to make sure your hits get registered.
 
-So off I go looking for modding instructions.
+This, apparently, is known among Hori tatacon owners, despite it being the authentic controller- it still wasn't good enough for normal players.
 
-All the instructions I saw required the modder to obtain items such as rubber sheets and cork or wood boards.
+So off I went looking for modding instructions.
+
+All the guides I found required the modder to obtain items such as rubber sheets and cork or wood boards.
 
 These were things that I'd had to procure- so I started thinking
 **why do I need these specific items? is it to add hardness to the material? is it to raise a bump and make it easier to trigger?**
