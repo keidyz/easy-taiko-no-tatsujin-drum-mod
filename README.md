@@ -3,7 +3,7 @@
 Most guides out there require rubber sheets and cork or wood while this guide will **only require common household items**.
 
 ### Results
-My drum is now sensitive enough that you can just touch the face of the drum to register a don while kas just need a tap.
+The drum is now sensitive enough that you can just touch the face of the drum to register a don while kas just need a tap.
 
 Here's a video of it -> https://youtu.be/R7-cOTQOhUM
 
