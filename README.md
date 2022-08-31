@@ -2,6 +2,10 @@
 
 Most guides out there require rubber sheets and cork or wood while this guide will **only require common household items**.
 
+### Results
+My drum is now sensitive enough that you can just poke it with a finger to register a don- kas need a tap.
+Here's a video of it -> https://youtu.be/R7-cOTQOhUM
+
 ### Inspiration
 I just got my tatacon delivered but sensitivity sucked big time. You have to hit the dons and kas with force just to make sure your hits get registered.
 This apparently is known among Hori tatacon owners, despite it being the authentic controller- it still wasn't good enough for normal players.
@@ -116,7 +120,3 @@ Also, don't placec that much layer on the vertical wall. I made that mistake and
 
 #### Step 6 - DONE!
 Test your drum out and rinse and repeat by adding more layers or remove layers from your modification till you're satisfied.
-
-
-### Results
-WIP
