@@ -4,6 +4,7 @@ Most guides out there require rubber sheets and cork or wood while this guide wi
 
 ### Results
 My drum is now sensitive enough that you can just touch the face of the drum to register a don while kas just need a tap.
+
 Here's a video of it -> https://youtu.be/R7-cOTQOhUM
 
 ### Inspiration
@@ -55,7 +56,7 @@ I also used the following but these are all totally unnecessary
 - precision tweezer, you most likely won't need this
 - mini grinder with a bit that can be used to poke holes into the paper, you can use scissors- I just happen to have one already set-up in the vicinity
 
-<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/materials-2.jpg" width="50%">
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/materials-2.jpg" height="50%">
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/materials-3.jpg" width="50%">
 
 #### Step 1 - Open up the drum
