@@ -56,8 +56,8 @@ I also used the following but these are all totally unnecessary
 - precision tweezer, you most likely won't need this
 - mini grinder with a bit that can be used to poke holes into the paper, you can use scissors- I just happen to have one already set-up in the vicinity
 
-<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/materials-2.jpg" height="50%">
-<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/materials-3.jpg" width="50%">
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/materials-2.jpg" width="30%">
+<img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/materials-3.jpg" width="30%">
 
 #### Step 1 - Open up the drum
 There are 5 screws at the back of the drum, use a Phillips scredriver to remove them.
