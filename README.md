@@ -98,7 +98,7 @@ You should end up with the following.
 
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/don-layer-front.jpg" width="50%">
 
-After doing so, on the side of the paper that does not have electrical tape, add another layer of tape. I used masking tape because I ran out of electrical tape and then ended up adding another layer of masking tape to it to make the result thicker.
+After doing so, on the side of the paper that does not have electrical tape, add another layer of tape. I used masking tape because I ran out of electrical tape and then ended up adding another layer of masking tape to it to make the result thicker and add a bit more cushioning to the impact of the drum sticks.
 
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/don-layer-back.jpg" width="50%">
 
