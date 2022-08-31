@@ -34,8 +34,7 @@ The drum used in this mod guide is the original Hori Taiko no Tatsujin switch dr
 
 I wasn't planning on documenting this until I joked to a friend that I'd do. The pictures here were all taken post mod implementation.
 
-**Also, the workmanship of this mod is horrible.** The tapes were cut as if I only had access to a piece of rock and not some refined steel scissor.
-**I only planned on doing this temporarily but it worked so well that I guess this would be permanent instead.**
+**Also, the workmanship of the mod show in the pics is horrible. The tapes were cut as if I only had access to a piece of rock and not some refined steel scissor. I only planned on doing this temporarily but it worked so well that I guess this would be permanent instead.**
 
 Also, the drum was in pristine condition prior to me modding it. It started getting scratches because I dragged it around while opening-closing, testing, and fine-tuning my modifications.
 
