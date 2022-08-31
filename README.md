@@ -30,7 +30,7 @@ And that was it.
 I decided to open up my drum and see how I'd go about doing things.
 
 ### Note
-The drum used in this mod guide is the original Hori Taiko no Tatsujin switch drum but as long as the mechanism is the same- other drums should be moddable the same way.
+The drum used in this mod guide is the official Hori Taiko no Tatsujin switch drum but as long as the mechanism is the same- other drums should be moddable the same way.
 
 I wasn't planning on documenting this until I joked to a friend that I'd do. The pictures here were all taken post mod implementation.
 
