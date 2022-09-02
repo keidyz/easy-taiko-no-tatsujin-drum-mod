@@ -10,7 +10,7 @@ Here's a video of it -> https://youtu.be/R7-cOTQOhUM
 ### Inspiration
 I just got my tatacon delivered but sensitivity sucked big time. You had to hit the dons and kas with force just to make sure your hits get registered.
 
-This, apparently, is known among Hori tatacon owners, despite it being the authentic controller- it still wasn't good enough for normal players.
+This, apparently, is known among Hori tatacon owners, despite it being the official controller- it still wasn't good enough for normal players.
 
 So off I went looking for modding instructions.
 
