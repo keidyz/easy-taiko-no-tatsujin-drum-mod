@@ -109,11 +109,12 @@ After doing so, you can get rid of the original foam and replace it with the one
 #### Step 5 - Add layers to the ka sensors
 **This was the most trial-and-error inducing part for me**
 Cut off strips of tape to cover the ka sensors.
+
 I mostly cut strips enough to cover at least two ka sensors at a time.
 
 I did around 5 layers over-all. If you're getting false-positives then you should strip some off. If you want more sensitivity then just add more layers.
 
-Also, don't placec that much layer on the vertical wall. I made that mistake and had to trim my layer down that was making the wall thicker.
+Also, don't place that much layer on the vertical wall. I made that mistake and had to trim my layer down that was making the wall thicker.
 
 <img src="https://github.com/keidyz/easy-taiko-no-tatsujin-drum-mod/blob/main/resources/ka-layer.jpg" width="50%">
 
