@@ -21,7 +21,7 @@ These were things that I'd had to procure- so I started thinking
 
 Whatever it is, me and my baseless-confidence™ believed that I could imitate their results using different materials.
 
-Luckily, I'm part of a team that does hardware R&D so we have this workbench in the office with materials and tools already setup so off I went to scan the bench for materials I could use.
+Luckily, we have this workbench in the office with materials and tools already setup so off I went to scan the bench for materials I could use.
 
 I saw an electrical tape and thought that it could substitute the rubber sheet material if I just keep adding layers of it to something like paper.
 Also, cork? wood?.... isn't paper made of wood? Yeah. That should work.
